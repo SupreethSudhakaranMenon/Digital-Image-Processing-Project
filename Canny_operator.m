@@ -90,4 +90,3 @@ edge_final = uint8(T_res.*255);
 figure, imshow(edge_final);
 
 
-% Modify
